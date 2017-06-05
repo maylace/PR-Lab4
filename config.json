@@ -1,0 +1,10 @@
+{
+  "smtp.host": "smtp.gmail.com",
+  "smtp.port": "465",
+  "smtp.username": "maylace95@gmail.com",
+  "smtp.password": "asdaDdasddee1231sd",
+  "pop.host": "pop.gmail.com",
+  "pop.username": "maylace95@gmail.com",
+  "pop.password": "123jsjjsdjlsls",
+  "pop.port": "995"
+}
